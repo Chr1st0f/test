@@ -1,4 +1,4 @@
-config:
+config-dev:
   - haribo
   - chocolats
   - autres 
